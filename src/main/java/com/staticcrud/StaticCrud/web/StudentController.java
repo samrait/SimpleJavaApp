@@ -17,7 +17,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.staticcrud.StaticCrud.model.Course;
 import com.staticcrud.StaticCrud.service.StudentService;
 
-
+//Controller
 @RestController
 public class StudentController {
 
